@@ -1,0 +1,14 @@
+C:\Users\mc120\source\repos\Sorting\Sorting\bin\Debug\net8.0\Sorting.exe
+C:\Users\mc120\source\repos\Sorting\Sorting\bin\Debug\net8.0\Sorting.deps.json
+C:\Users\mc120\source\repos\Sorting\Sorting\bin\Debug\net8.0\Sorting.runtimeconfig.json
+C:\Users\mc120\source\repos\Sorting\Sorting\bin\Debug\net8.0\Sorting.dll
+C:\Users\mc120\source\repos\Sorting\Sorting\bin\Debug\net8.0\Sorting.pdb
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfo.cs
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.dll
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\refint\Sorting.dll
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.pdb
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\Sorting.genruntimeconfig.cache
+C:\Users\mc120\source\repos\Sorting\Sorting\obj\Debug\net8.0\ref\Sorting.dll
